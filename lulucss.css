@@ -1,0 +1,8 @@
+p {color: white; font-family: courier; font-size: 100%; text-align: center;}
+table, th, td {border: 1px solid white; border-collapse: collapse; color: white; text-align: center}
+body {background-color: #d39e72}
+h1 {text-align: center;color: white;font-size: 300%;color: #d5d5d4}
+h2 {text-align: center;color: white;font-size: 200%}
+h3 {text-align: center;color: white; font-size: 150%}
+.tabel {width: 30%; font-size: 100%}
+.flo {background-color: #deadbe}
